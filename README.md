@@ -57,7 +57,7 @@ experimental constraints, and reproducible analytical workflows.
 ## External Links
 
 - **Website**: https://dap-hai.org  
-- **ORCID**: *(add when ready)*  
+- **ORCID**: https://orcid.org/0000-0007-1766-4515
 - **Hugging Face**: https://huggingface.co/  
 - **Email**: paradigms@dap-hai.org  
 
