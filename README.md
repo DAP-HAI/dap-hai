@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAP-HAI/dap-hai/main/logo-placeholder.png" width="140" alt="DAP-HAI Logo"/>
+  <img src="https://raw.githubusercontent.com/DAP-HAI/dap-hai/main/logo.png"
+       width="180" alt="DAP-HAI thumbnail">
 </p>
+
 
 <h1 align="center">DAP-HAI Research Center</h1>
 <h3 align="center">Distributed Adaptive Paradigms for Advanced Human–AI Interaction</h3>
