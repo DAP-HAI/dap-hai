@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DAP-HAI/dap-hai/main/logo.png"
-       width="180" alt="DAP-HAI thumbnail">
+  <img src="https://raw.githubusercontent.com/DAP-HAI/dap-hai/main/thumbnail.png"
+       width="180" alt="DAP-HAI Logo">
 </p>
 
 
