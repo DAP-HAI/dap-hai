@@ -65,17 +65,7 @@ experimental constraints, and reproducible analytical workflows.
 
 ---
 
-## Repository Structure (Planned)
 
-dap-hai/ 
-├── experiments/ # Controlled LLM behavior studies 
-├── diagrams/ # Schemas, task flows, concept maps 
-├── methods/ # Interaction templates & analysis tools 
-├── notes/ # Research logs and drafts 
-└── website/ # DAP-HAI official site (static)
-
-
----
 
 <p align="center">
   <sub>© DAP-HAI Research Center — Independent AI/HCI Research</sub>
